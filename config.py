@@ -1,5 +1,6 @@
 domen = 'https://price.ru/'
 url = 'https://price.ru/mobilnye-telefony/'
+search = 'search/?query='
 
 
 proxy = {'https': '127.0.0.1:8080'}
